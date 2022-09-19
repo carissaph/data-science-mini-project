@@ -1,1 +1,1 @@
-# practice-notebooks
+# mini-projects-notebooks
